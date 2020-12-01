@@ -6,9 +6,9 @@ A **full stack junior developer**
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Smart Hub**                | Work in progress Smart Room app.  | Python, flask           |
-| **[Snake](https://github.com/obean/Snake)** | A fun weekend project to build the popular mobile game snake | Javascript, HTML5|
+| **[Acebook](https://github.com/obean/acebook-team-rex)**                | Group Project. Social media web app based on Facebook.  | Rails, Rspec, PostgreSQL, HTML/CSS, Heroku |
+| **[Snake](https://github.com/obean/Snake)** | A fun weekend solo project to build the popular mobile game, snake. | Javascript, HTML5|
+| **[Process Reviews Dashboard](https://github.com/obean/ProcessReviewSite)**| Group Project. A site where programmers can request a process review, receive feedback on preset categories and see their progress in graphs | React, Express, PostgreSQL, Sequelize, Heroku |
 
 ## Experience
 
@@ -30,7 +30,7 @@ _Product Implementation Manager_
 | Ruby | Express | Jasmine | OO Design | Git |
 | Python | jQuery | Pytest | MVC | Bootstrap |
 | SQL | Rails | Capybara | TDD | TablePlus |
-| HTML5 | Flask | BDD | | VSCode |
+| HTML5 | Flask | | BDD  | VSCode |
 | CSS3 | PostgreSQL | | RESTful APIs |
 <!-- | | Heroku | Remote Working | |
 | | TravisCI | | |
