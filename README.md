@@ -30,8 +30,8 @@ _Product Implementation Manager_
 | Ruby | Express | Jasmine | OO Design | Git |
 | Python | jQuery | Pytest | MVC | Bootstrap |
 | SQL | Rails | Capybara | TDD | TablePlus |
-| HTML5 | Flask | BDD | VSCode |
-| CSS3 | PostgreSQL | RESTful APIs |
+| HTML5 | Flask | BDD | | VSCode |
+| CSS3 | PostgreSQL | | RESTful APIs |
 <!-- | | Heroku | Remote Working | |
 | | TravisCI | | |
 | | Sinatra | | | -->
