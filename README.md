@@ -25,7 +25,7 @@ _Product Implementation Manager_
 
 ## Tech Skills
 | Languages | Technologies | Testing | Concepts | Tools |
-| --------- | ------------ | _______ | -------- | ----- |
+| --------- | ------------ | ------- | -------- | ----- |
 | Javascript | React | RSpec | Agile | OS X |
 | Ruby | Express | Jasmine | OO Design | Git |
 | Python | jQuery | Pytest | MVC | Bootstrap |
