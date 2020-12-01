@@ -26,11 +26,11 @@ _Product Implementation Manager_
 ## Tech Skills
 | Languages | Technologies | Testing | Concepts | Tools |
 | --------- | ------------ | _______ | -------- | ----- |
-| Javascript | React | RSpec | Agile | OS X
-| Ruby | Express | Jasmine | OO Design | Git
-| Python | jQuery | Pytest | MVC | Bootstrap
-| SQL | Rails | Capybara | TDD | TablePlus
-| HTML5 | Flask | BDD | VSCode
+| Javascript | React | RSpec | Agile | OS X |
+| Ruby | Express | Jasmine | OO Design | Git |
+| Python | jQuery | Pytest | MVC | Bootstrap |
+| SQL | Rails | Capybara | TDD | TablePlus |
+| HTML5 | Flask | BDD | VSCode |
 | CSS3 | PostgreSQL | RESTful APIs |
 <!-- | | Heroku | Remote Working | |
 | | TravisCI | | |
