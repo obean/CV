@@ -1,6 +1,8 @@
 ## Oliver Beney
-A **full stack junior developer** 
 
+My background is in technical support and product integrations in the travel tech industry. Triaging the issues in products without the coding ability to fix them myself gave me the motivation to pursue a career in software development. This led me to complete the Makers Bootcamp and I am now **searching for a role as a Junior developer.** 
+
+I'm a hard working person who enjoys working as part of a team, I'm searching for a place where I can continue to grow my skills as a developer.
 
 ## Projects
 
@@ -17,7 +19,7 @@ _Product Implementation Manager_
 
 - Responsible for the implementation of scripts on hotel websites and set up of onsite marketing product configuration.
 - Triaging of technical bugs to assist developers with fixing product issues. 
-- Now working part time as the sole Technical Support Specialist.
+- In September I moved to working part time as the sole Technical Support Specialist whilst I completed the Makers coding bootcamp.
 
 
 
@@ -32,23 +34,27 @@ _Product Implementation Manager_
 | SQL | Rails | Capybara | TDD | TablePlus |
 | HTML5 | Flask | | BDD  | VSCode |
 | CSS3 | PostgreSQL | | RESTful APIs |
-<!-- | | Heroku | Remote Working | |
+| | Heroku | Remote Working | |
 | | TravisCI | | |
-| | Sinatra | | | -->
+| | Sinatra | | |
 
 ## Soft Skills
 
 #### Problem Solving
 
-- Job based experience finding innovative ways to implement products on a range of unique hotel websites.
-- I am the main Technical Support provider at my current. Responsibilities focus on the fixing and Triaging of a wide range of technical product issues
+- Even before I had any coding experience, I was responsible for triaging bug tickets, identifying what part of the product had broken and sending it to the relevant development team. I am now the only technical support manager working on this.
+- On the job experience of finding innovative solutions to client onsite marketing using targeted messaging in the hotel sector.
 
+### Time Management
 
-#### Goal Driven 
+- Whilst completing the intensive Makers Bootcamp, I also maintained my part time position as the sole technical support  manager for a travel tech SaaS company.
+- Worked hard to maintain the balance of maximising my learning from Makers whilst also delivering fast solutions to technical errors for clients.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Solution Driven 
 
-In a professional environment, I have been responsible for planning the up scale in implementation of a new Retarg alongside the engineering team. This involved consideration of each end user and strong team work to ensure a streamlined end process. Vocationally, I have been the lead public worker for the construction of a skatepark in my local town. Running focus groups and liasing with the council to ensure a popular end product.
+- In my previous role, I was responsible for working with the development team to design the Go Live process for clients purchasing a new Retargeting product.
+- Proactively reached out to my local council to 
+In a professional environment, I have been responsible for planning the up scale in implementation of a new Retargeting product alongside the engineering team. This involved consideration of each end user and strong team work to ensure a streamlined end process. Vocationally, I have been the lead public worker for the construction of a skatepark in my local town. Running focus groups and liasing with the council to ensure a popular end product.
 
 ## Education
 
@@ -65,10 +71,10 @@ In a professional environment, I have been responsible for planning the up scale
 - Grade: 2.1
 - My first introduction to code was the analysis of Eye-Tracking Data using Python during dissertation research.
 
-#### Any other qualifications
+<!-- #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+That in some arguable way make you a better software developer or well-rounded person -->
 
 ## Hobbies
 
-I am a keen Scuba Diver and Skate Boarder with a passion for being outdoors.
+I'm an advanced open water scuba diver with a passion for both diving in the UK and abroad. On dry land you'll probably find me skateboarding or climbing. 
