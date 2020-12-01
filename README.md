@@ -32,9 +32,9 @@ _Product Implementation Manager_
 | SQL | Rails | Capybara | TDD | TablePlus
 | HTML5 | Flask | BDD | VSCode
 | CSS3 | PostgreSQL | RESTful APIs |
-| | Heroku | Remote Working | |
+<!-- | | Heroku | Remote Working | |
 | | TravisCI | | |
-| | Sinatra | | |
+| | Sinatra | | | -->
 
 ## Soft Skills
 
