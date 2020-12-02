@@ -34,7 +34,7 @@ _Product Implementation Manager_
 | SQL | Rails | Capybara | TDD | TablePlus |
 | HTML5 | Flask | | BDD  | VSCode |
 | CSS3 | PostgreSQL | | RESTful APIs |
-| | Heroku | Remote Working | |
+| | Heroku |  | Remote Working |
 | | TravisCI | | |
 | | Sinatra | | |
 
@@ -53,8 +53,7 @@ _Product Implementation Manager_
 #### Solution Driven 
 
 - In my previous role, I was responsible for working with the development team to design the Go Live process for clients purchasing a new Retargeting product.
-- Proactively reached out to my local council to 
-In a professional environment, I have been responsible for planning the up scale in implementation of a new Retargeting product alongside the engineering team. This involved consideration of each end user and strong team work to ensure a streamlined end process. Vocationally, I have been the lead public worker for the construction of a skatepark in my local town. Running focus groups and liasing with the council to ensure a popular end product.
+- Proactively reached out to my local council to my local council and became the public representative of a project to build a new skatepark in my local village. Organising focus groups with users, looking over designs from construction companies and organising an opening event.
 
 ## Education
 
@@ -71,9 +70,7 @@ In a professional environment, I have been responsible for planning the up scale
 - Grade: 2.1
 - My first introduction to code was the analysis of Eye-Tracking Data using Python during dissertation research.
 
-<!-- #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person -->
 
 ## Hobbies
 
