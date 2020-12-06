@@ -57,7 +57,7 @@ _Product Implementation Manager_
 
 ## Education
 
-#### Makers Academy (09/2020 to end_date)
+#### Makers Academy (03/09/2020 to 20/11/2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
