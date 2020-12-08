@@ -32,7 +32,7 @@ _Product Implementation Manager_
 | Ruby | Express | Jasmine | OO Design | Git |
 | Python | jQuery | Pytest | MVC | Bootstrap |
 | SQL | Rails | Capybara | TDD | TablePlus |
-| HTML5 | Flask | | BDD  | VSCode |
+| HTML5 | Flask | Unittest | BDD  | VSCode |
 | CSS3 | PostgreSQL | | RESTful APIs |
 | | Heroku |  | Remote Working |
 | | TravisCI | | |
