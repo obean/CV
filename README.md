@@ -11,6 +11,7 @@ I'm a hard working person who enjoys working as part of a team, I'm searching fo
 | **[Acebook](https://github.com/obean/acebook-team-rex)**                | Group Project. Social media web app based on Facebook.  | Rails, Rspec, PostgreSQL, HTML/CSS, Heroku |
 | **[Snake](https://github.com/obean/Snake)** | A fun weekend solo project to build the popular mobile game, snake. | Javascript, HTML5|
 | **[Process Reviews Dashboard](https://github.com/obean/ProcessReviewSite)**| Group Project. A site where programmers can request a process review, receive feedback on preset categories and see their progress in graphs | React, Express, PostgreSQL, Sequelize, Heroku |
+| [Spotify Web Player](https://github.com/obean/spotify_web_player) | A solo project aimed at allowing personalised web playback of songs from spotify, using the spotify SDK and API. Will be used as part of a smart home control screen when complete. | React | 
 
 ## Experience
 
